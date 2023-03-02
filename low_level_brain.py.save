@@ -1,0 +1,7 @@
+import numpy
+
+def  decision(Sonar_array):
+
+     numpy.minimum(Sonar_array)
+     nu
+
